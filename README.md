@@ -28,9 +28,12 @@ This is a simple **Pig Game** built with **JavaScript**, following a course on J
 ## Disclaimer ⚠️:
 This project was created as part of an online JavaScript course. The code is intended for educational purposes only. The game is fully functional but doesn't include advanced features like multiplayer over the web.
 
-## License 📝:
-This project is licensed under the MIT License.
-
 ---
 
 Feel free to explore the code and play the game! 🎮
+## Getting Started
+
+Clone or download the repository to your local machine. Open the `index.html` file in your browser to start playing the game.
+
+```bash
+git clone https://github.com/MKBM165/Pig-Game.git
