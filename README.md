@@ -11,7 +11,7 @@ This is a simple **Pig Game** built with **JavaScript**, following a course on J
 ## Technologies Used:
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white) HTML
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white) CSS
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black) JavaScript
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white) JavaScript
 
 ## Gameplay:
 1. Player 1 and Player 2 take turns.
